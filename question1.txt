@@ -1,0 +1,6 @@
+Qn.1
+
+My favorite editor is ﻿﻿﻿﻿﻿Sublime because it can be downloaded and evaluated for free, it is also the cross platform source editor that supports python and other many programmings languages, it has features like auto-completion, syntax highlight which are very user friendly.
+
+Sublime can be used in any computer like windows, Mac, Linux. It also helps me to build the code faster and efficiently. Since it supports a lot of programming languages it is very easier for me to jump in any code and work with it in this editor.
+Since it has a syntax highlighting feature, it makes the me to write code in efficient way and help me to figure out the errors and typos very quickly. It is really easy to learn and very user friendly.

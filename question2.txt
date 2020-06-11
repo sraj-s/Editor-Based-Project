@@ -1,0 +1,24 @@
+Qn. 2
+
+touch a.txt
+touch b.bak
+touch c.py
+#changing the a.txt file to new_a.txt 
+for file in `ls *.txt`
+do 
+mv $file new_$file 
+echo moving $file to new_$file
+done
+#deleting the file with .bak extensions
+find . \(-name"*.bak" -o \) -exec rm{} \;
+# change the names of .py files to long_{old_name}.py orshort_{old_name}.py depending on the condition that the number of lines in each of .py files is >= 10 lines or not.
+for file in `ls *.py`
+do 
+if [ $file ge 10 ]
+then
+mv $file long_$file 
+echo moving $file to long_$file
+else 
+echo moving $file to short_$file
+fi
+done
